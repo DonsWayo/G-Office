@@ -1,0 +1,23 @@
+{
+  "name": "g-office",
+  "version": "1.0.0",
+  "description": "A Google Docs app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/DonsWayo/g-office",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "4.0.1",
+    "electron-packager": "^13.0.1"
+  }
+}

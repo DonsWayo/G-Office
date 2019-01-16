@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    -webkit-app-region: drag;
+    background-color: #fff;
+}
+
+.webview {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+}
